@@ -32,7 +32,7 @@ They need an analysis of offers from the 15 biggest cities in Poland over the la
 | 1 | Investment Manager | To access the market overview dashboard to track the number of property listings and average prices of apartments in the 15 largest cities in Poland. | I can assess Polish real estate market's attractiveness. | A Power BI report displaying data on the amount of offers and average prices of apartments. It should be interactive and enable the user to filter data based on the city. |
 | 2 | Investment Analyst | To dive deeper into the data provided by market overview. | I would be able to obtain more detailed information about the factors influencing apartment prices. | Report should enable the user to go deeper into the data using “drill-through” function. |
 | 3 | Investment Analyst | To analyze price on various factors like: square footage, building age, number of rooms, and ownership rights. | I can understand the relationship between apartment prices and these factors. | The report should contain prices analysis based on provided criteria. |
-| 4 | Investment Manager | I want to be able to interact with the data and easily switch between pages. | So I can present and analyze the data in real time during my teams meetings. | Report showed have a navigation bar providing a way to switch between pages. |
+| 4 | Investment Manager | I want to be able to interact with the data and easily switch between pages. | So I can present and analyze the data in real time during my teams meetings. | Report should have a navigation bar providing a way to switch between pages. |
 
 <br>
 
