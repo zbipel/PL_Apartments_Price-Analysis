@@ -19,7 +19,7 @@ This is a Data Analyst portfolio project based on a fictional scenario in which 
 
 ## Business Request
 
-The Investment Manager of the fund and their team are working on an investment strategy for the next few years. They are particularly interested in the real estate market in Poland. They would like to have an overview of the apartment sales market and its depth. The analysis should consider factors such as apartment square footage, number of rooms, building age and type and ownership rights.
+Investment Manager of the fund and his team are working on an investment strategy for the next few years. They are particularly interested in the real estate market in Poland. They would like to have an overview of the apartment sales market and its depth. The analysis should consider factors such as apartment square footage, number of rooms, building age and type and ownership rights.
 
 They need an analysis of offers from the 15 biggest cities in Poland over the last 2 months to understand the current market situation.
 
