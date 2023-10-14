@@ -2,7 +2,7 @@
 
 <br>
 
-This is a Data Analyst portfolio project based on a fictional scenario in which I received a request from an Investment Fund to create a report based on their needs.
+This is a project based on fictional scenario in which I received a request from an Investment Fund to create a report based on their needs.
 
 ### Data Source
 
@@ -19,7 +19,7 @@ This is a Data Analyst portfolio project based on a fictional scenario in which 
 
 ## Business Request
 
-Investment Manager of the fund and his team are working on an investment strategy for the next few years. They are particularly interested in the real estate market in Poland. They would like to have an overview of the apartment sales market and its depth. The analysis should consider factors such as apartment square footage, number of rooms, building age and type and ownership rights.
+Investment Manager of the fund and his team are working on an investment strategy for the next few years. They are particularly interested in the real estate market in Poland. They would like to have an overview of the apartment sales market and its depth. The analysis should consider factors such as apartment square footage, number of rooms, building age, type and ownership rights.
 
 They need an analysis of offers from the 15 biggest cities in Poland over the last 2 months to understand the current market situation.
 
@@ -206,7 +206,7 @@ They need an analysis of offers from the 15 biggest cities in Poland over the la
 - Rzeszów records the fewest number of apartment listings, totaling just 300.
 - The highest-priced apartments are situated in Warsaw, boasting an average price of 909,000 PLN.
 - Conversely, the most affordable apartments can be found in Chęstochowa, with an average price of 307,000 PLN per unit.
-- Interestingly, the average apartment price in Warsaw (the most expensive city) is nearly 20% higher than in Kraków (the second most expensive city), yet Warsaw has 48% more listings. This suggests that while prices are elevated in Warsaw, finding an apartment there may be relatively more accessible than in Kraków.
+- The average apartment price in Warsaw (the most expensive city) is nearly 20% higher than in Kraków (the second most expensive city), yet Warsaw has 48% more listings. This suggests that while prices are elevated in Warsaw, finding an apartment there may be relatively more accessible than in Kraków.
 
 
 ### Key Findings from the "Market Analysis" Section
