@@ -2,11 +2,11 @@
 
 <br>
 
-This is a Data Analyst portfolio project based on a fictional scenario in which I received a request from an Investment fund to create a report based on their needs.
+This is a Data Analyst portfolio project based on a fictional scenario in which I received a request from an Investment Fund to create a report based on their needs.
 
 ### Data Source
 
-- **Dataset**: "Apartment Prices in Poland" from Kaggle
+- **Dataset**: "Apartment Prices in Poland"
 - **Provided by**: Krzysztof Jamroz
 - [Dataset Link](https://www.kaggle.com/datasets/krzysztofjamroz/apartment-prices-in-poland/data)
 
@@ -60,10 +60,11 @@ They need an analysis of offers from the 15 biggest cities in Poland over the la
 
 <br>
 
-   - Creating a new table with data from 3 files combined
-   - Exploring table structure
-   - Removing duplicates
-   - Changing data types, correcting inconsistent/missing values
+   - Created a new table with data from 3 files combined
+   - Explored table structure
+   - Removed duplicates
+   - Changed data types
+   - Corrected inconsistent/missing values
 
 <br>
 
@@ -101,7 +102,7 @@ They need an analysis of offers from the 15 biggest cities in Poland over the la
    
 <br>
 
-   - Creating 3 dimension tables to reduce redundancy:
+   - Created 3 dimension tables to reduce redundancy:
 
      - DIM_Building_types
      - DIM_City
@@ -113,7 +114,7 @@ They need an analysis of offers from the 15 biggest cities in Poland over the la
 
 <br>
 
-   - Establishing relationships between tables:
+   - Established relationships between tables:
 
 <br>
    
@@ -194,8 +195,6 @@ They need an analysis of offers from the 15 biggest cities in Poland over the la
 <br><br>
 
 # Final Conclusions and Key Insights
-
-This report provides insights into the real estate market across Poland's 15 largest cities. It equips users with a  understanding of the various factors influencing property prices, thus laying a robust foundation for well-informed decision-making in the realm of real estate investments.
 
 <br>
 
