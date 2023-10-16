@@ -57,13 +57,6 @@ They need an analysis of offers from the 15 biggest cities in Poland over the la
 <br>
    
 2. **Data Cleansing & Transformation**
-
-<br>
-
-   
-  
-   
-   - Changed data types
   
 
 <br>
