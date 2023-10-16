@@ -60,24 +60,41 @@ They need an analysis of offers from the 15 biggest cities in Poland over the la
 
 <br>
 
-   - Created a new table with data from 3 files combined
-   - Explored table structure
-   - Removed duplicates
+   
+  
+   
    - Changed data types
-   - Corrected inconsistent/missing values
+  
 
+<br>
+
+- Created a new table with data from 3 files combined
+- 
 <br>
 
    ![Data Transformation](Resources/Screenshots/Transformation.jpg)
    
 <br>
 
+ - Explored table structure
+
+<br>
+
    ![Data Transformation](Resources/Screenshots/Data_types.jpg)
       
 <br>
 
+- Removed duplicates
+
+<br>
+
    ![Data Transformation](Resources/Screenshots/Duplicates.jpg)
       
+<br>
+
+ - Changed data types 
+ - Corrected inconsistent/missing values
+
 <br>
 
    ![Data Transformation](Resources/Screenshots/Cleaning.jpg)
