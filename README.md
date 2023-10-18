@@ -88,6 +88,7 @@ They need an analysis of offers from the 15 biggest cities in Poland over the la
 
  - Changed data types 
  - Corrected inconsistent/missing values
+ - Pushed the data into new table 'apartments_pl_cleaned'
 
 <br>
 
@@ -110,6 +111,14 @@ They need an analysis of offers from the 15 biggest cities in Poland over the la
 <br>
 
 4. **Creating Data Model**
+
+<br>
+
+   - Imported the data using SQL Server connection in Power Query
+
+<br>
+  
+   ![Data Model](Resources/Screenshots/PQ_import.jpg)
    
 <br>
 
