@@ -78,10 +78,11 @@ They need an analysis of offers from the 15 biggest cities in Poland over the la
 <br>
 
 - Removed duplicates
+- Created temporaty table '#temp_apartments'
 
 <br>
 
-   ![Data Transformation](Resources/Screenshots/Duplicates.jpg)
+   ![Data Transformation](Resources/Screenshots/Duplicates_.jpg)
       
 <br>
 
