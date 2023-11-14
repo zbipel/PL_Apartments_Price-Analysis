@@ -215,7 +215,7 @@ They need an analysis of offers from the 15 biggest cities in Poland over the la
 
 <div align="center">
 
-# **[View Full Report Here](https://app.powerbi.com/view?r=eyJrIjoiYzc0MDViYmEtNzE2Mi00NGVmLWI4ZjgtZjNiOWRmZTFjOGNjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)**
+# **[View Full Report Here](https://app.powerbi.com/view?r=eyJrIjoiOWJkYWE0Y2ItY2I5Ny00ZDQ3LTkyODQtNzc1NjAxOWVhYWE3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)**
 
 </div>
 
