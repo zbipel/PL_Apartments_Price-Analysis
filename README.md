@@ -191,6 +191,13 @@ They need an analysis of offers from the 15 biggest cities in Poland over the la
 
    ![Measures](Resources/Screenshots/Visual_5.1.jpg)
    
+<br>
+
+- Created mobile layout (available only through Power BI app)
+
+<br>
+
+![Mobile](Resources/Screenshots/mobile.jpg)
 
 <br>
 
