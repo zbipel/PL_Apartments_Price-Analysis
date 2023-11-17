@@ -181,11 +181,11 @@ They need an analysis of offers from the 15 biggest cities in Poland over the la
    
 <br>
 
-   ![Measures](Resources/Screenshots/Visual_3.2.jpg)
+   ![Measures](Resources/Screenshots/Visual_3.3.jpg)
    
 <br>
 
-   ![Measures](Resources/Screenshots/Visual_4.2.jpg)
+   ![Measures](Resources/Screenshots/Visual_4.3.jpg)
    
 <br>
 
