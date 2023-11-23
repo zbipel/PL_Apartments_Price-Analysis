@@ -2,7 +2,7 @@
 
 <br>
 
-This is a project based on fictional scenario in which I received a request from an Investment Fund to create a report based on their needs.
+This is a project based on scenario in which I received a request from an Investment Fund to create a report based on their needs.
 
 ### Data Source
 
